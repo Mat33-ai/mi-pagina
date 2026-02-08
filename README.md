@@ -1,1 +1,47 @@
-# mi-pagina
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Para ti ❤️</title>
+  <style>
+    body {
+      background-color: #ffe6ee;
+      font-family: Arial;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      color: #ff4d6d;
+    }
+    p {
+      font-size: 18px;
+    }
+    button {
+      background-color: #ff4d6d;
+      color: white;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 10px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>OAAA, bebita hermosa 💕</h1>
+
+  <p>
+    help me.<br>
+    ayiuda el chatgpt hizo todo pero teno ke aprender.
+  </p>
+
+  <button onclick="mensaje()">Haz clic aquí</button>
+
+  <script>
+    function mensaje() {
+      alert("¿Quieres ser mi San Valentín? 💘");
+    }
+  </script>
+
+</body>
+</html>
